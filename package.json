@@ -1,0 +1,23 @@
+{
+  "name": "bacon12345678-base64-decoder",
+  "version": "1.0.0",
+  "description": "A package to decode Base64 content and parse JSON for articles.",
+  "main": "src/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Bacon12345678"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "decoder",
+    "base64",
+    "json",
+    "articles"
+  ],
+  "author": "bacon0317",
+  "license": "MIT",
+  "dependencies": {
+    "your-package-name": "^0.0.0"
+  }
+}
