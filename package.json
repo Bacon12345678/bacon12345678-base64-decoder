@@ -1,5 +1,5 @@
 {
-  "name": "@Bacon12345678/bacon12345678-base64-decoder",
+  "name": "@bacon12345678/bacon12345678-base64-decoder",
   "version": "1.0.0",
   "description": "A package to decode Base64 content and parse JSON",
   "main": "src/index.js",
